@@ -25,15 +25,14 @@ const About = () => {
                     <Col xs={12} md={6}>
                     <Row className=" align-items-start p-2 my-details rounded">
                 Hi there! I am <strong>&nbsp;Roomi Islam</strong>
-                <br />A passionate programmer and a good learner, born and brought up in India. I Know Full Stack Web Development with React.js, Bootstrap, 
-                Python, Django, Node.js, and Machine Learning using
-                
-                I am persuing BTech with specialization in 'Computer Science & Engineering'.
+                <br />A passionate programmer and an organized student of BIT Sindri, persuing B.Tech
+                         in CSE branch. I am from Dhanbad(Jharkhand). I Know Full Stack Web Development 
+                and Machine Learning (Python).
                 
                 I work efficiently both as an individual contributor as well as along with a team.
                  I seek new challenges and try to think out-of-the-box while looking for creative solutions to a given problem. Besides the details given in my
                   resume, I believe in character, values, vision, and action. I am a quick learner and believe in learning from my mistakes 
-                for I strongly feel that this virtue will take me ahead in life and career.”
+                for I strongly feel that this virtue will take me ahead in life and career.
 <br /> <br />
                 <Col className="d-flex justify-content-center flex-wrap">
                   <div>
